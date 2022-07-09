@@ -1,0 +1,13 @@
+* {
+  color: white;
+}
+
+body {
+  background-image: url("./srcs/stars.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+}

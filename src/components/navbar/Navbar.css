@@ -1,0 +1,45 @@
+.ajst-logo {
+    width: 70px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Nav-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    box-shadow: 0px 5px 15px #000;
+}
+
+.half-left-navbar {
+    display: flex;
+}
+
+.linkers {
+    text-align: center;
+    display: flex;
+    list-style: none;
+}
+
+.linkers li {
+    margin: 10px;
+}
+
+.half-right-navbar {
+    margin-top: 26px;
+    margin-right: 50px;
+}
+
+.half-right-navbar a {
+    padding: 8px 30px;
+    border: 1px solid #cc852f;
+    border-radius: 20px;
+    color: #cc852f;
+}
+
+.active {
+    color: #cc852f;
+}
